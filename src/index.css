@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+:root {
+    --primary-color: #007b5c;
+}
+
+.ant-btn-color-primary {
+    background-color: var(--primary-color) !important ;
+    color: black;
+}
